@@ -1,5 +1,5 @@
 Name,Id,Language
-Moves in squared strings (III),56dbeec613c2f63be4000be6,Go
+Human readable duration format,52742f58faf5485cae000b9a,Python
 Sum of Digits / Digital Root,541c8630095125aba6000c00,Go
 Bit Counting,526571aae218b8ee490006f4,Go
 Steps in Primes,5613d06cee1e7da6d5000055,Python
@@ -12,5 +12,3 @@ Last digit of a large number,5511b2f550906349a70004e1,Python
 Array.diff,523f5d21c841566fde000009,Python
 extract file name,597770e98b4b340e5b000071,Python
 Scramblies,55c04b4cc56a697bb0000048,Python
-Not very secure,526dbd6c8c0eb53254000110,Python
-Count characters in your string,52efefcbcdf57161d4000091,Python
